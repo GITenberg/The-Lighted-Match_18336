@@ -1,0 +1,38 @@
+_repo: The-Lighted-Match_18336
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schabelitz, R. F. (Rudolph Frederick)
+    alias: Schabelitz, Rudolph Frederick
+    birthdate: 1884
+    gutenberg_agent_id: '7952'
+    url: http://www.gutenberg.org/2009/agents/7952
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buck, Charles Neville
+    birthdate: 1879
+    deathdate: 1930
+    gutenberg_agent_id: '2520'
+    url: http://www.gutenberg.org/2009/agents/2520
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/l#a36873
+    - http://www.english.eku.edu/services/kylit/buck.htm
+description: A lovely princess travels incognito through the States and falls in love
+  with an American man. There are ties that bind her to someone in her own home, and
+  the great plot revolves round her efforts to work her way out.
+gutenberg_issued: '2006-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Lighted Match
+url: http://www.gutenberg.org/ebooks/18336
